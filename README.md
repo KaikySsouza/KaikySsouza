@@ -58,6 +58,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KaikySsouza/KaikySsouza/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
 ###
